@@ -1,3 +1,7 @@
+# ⚠️ Unmaintained and doesn't work anymore ⚠️
+
+This app has been broken for a while now but the codebase is so messy that I cannot bring myself to work on this anymore. If I ever do, it will be from the ground up as a completely new project.
+
 # Ant's YouTube Downloader Tool
 
 **Simple CLI python script making downloading YouTube videos very easy**
